@@ -1,2 +1,2 @@
-This is a GIT project
+This is a project in GIT
 Next lines
